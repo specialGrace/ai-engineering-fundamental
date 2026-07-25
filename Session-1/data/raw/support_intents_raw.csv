@@ -1,0 +1,186 @@
+example_id,text,label,split,difficulty,source
+ref-027,Could you undo the charge on my account?,refund_request,test,hard,curated_synthetic
+inv-025,What remains unpaid on my account?,invoice_status,validation,hard,curated_synthetic
+acc-010,How do I edit my profile information?,account_update,train,easy,curated_synthetic
+acc-023,Please edit the organisation details.,account_update,validation,medium,curated_synthetic
+tec-002,The app crashes whenever I open it.,technical_support,train,easy,curated_synthetic
+tec-011,My verification code never arrives.,technical_support,train,easy,curated_synthetic
+ref-026,That card payment should not have gone through.,refund_request,test,hard,curated_synthetic
+inv-017,I need a copy of the invoice and its current status.,invoice_status,train,medium,curated_synthetic
+can-019,Stop the recurring plan from next month.,cancel_order,train,medium,curated_synthetic
+inv-023,Please check whether the bill was settled.,invoice_status,validation,medium,curated_synthetic
+acc-019,How can I amend my personal details?,account_update,train,medium,curated_synthetic
+tec-023,The screen keeps spinning and never finishes.,technical_support,validation,medium,curated_synthetic
+gen-012,Do you provide training for new users?,general_enquiry,train,easy,curated_synthetic
+acc-020,Please remove the old address from my account.,account_update,train,medium,curated_synthetic
+acc-027,Please correct the information shown in my profile.,account_update,test,hard,curated_synthetic
+tec-017,I cannot submit the form.,technical_support,train,medium,curated_synthetic
+ref-017,My refund is still missing after five days.,refund_request,train,medium,curated_synthetic
+can-006,Please stop the delivery before it is dispatched.,cancel_order,train,easy,curated_synthetic
+ref-002,I would like my money back for the last order.,refund_request,train,easy,curated_synthetic
+inv-018,Is invoice 7788 settled?,invoice_status,train,medium,curated_synthetic
+ref-028,The purchase was a mistake; I need the funds returned.,refund_request,test,hard,curated_synthetic
+ref-001,Please refund the payment I made yesterday.,refund_request,train,easy,curated_synthetic
+gen-007,Do you support small organisations?,general_enquiry,train,easy,curated_synthetic
+tec-029,The application closes without warning.,technical_support,test,hard,curated_synthetic
+tec-004,The website shows an error message.,technical_support,train,easy,curated_synthetic
+inv-009,Please check the balance on my account.,invoice_status,train,easy,curated_synthetic
+acc-011,Please change my preferred contact method.,account_update,train,easy,curated_synthetic
+can-026,Please halt the order that is still pending.,cancel_order,test,hard,curated_synthetic
+gen-030,I would like an overview before deciding.,general_enquiry,test,hard,curated_synthetic
+gen-023,Who is this product designed for?,general_enquiry,validation,medium,curated_synthetic
+tec-012,I cannot connect to the service.,technical_support,train,easy,curated_synthetic
+can-015,End my plan after the current billing period.,cancel_order,train,medium,curated_synthetic
+can-016,Please cancel both items in my basket order.,cancel_order,train,medium,curated_synthetic
+gen-002,How does this product work?,general_enquiry,train,easy,curated_synthetic
+bad-001,,technical_support,train,easy,curated_synthetic
+acc-015,Can you change the account holder name?,account_update,train,medium,curated_synthetic
+inv-024,Has the amount due been received?,invoice_status,validation,hard,curated_synthetic
+gen-026,Could you explain the main benefits?,general_enquiry,test,hard,curated_synthetic
+tec-021,The portal will not let me in.,technical_support,validation,medium,curated_synthetic
+ref-016,When will my refund reach my bank account?,refund_request,train,medium,curated_synthetic
+inv-013,Can you confirm the due date on invoice 1120?,invoice_status,train,medium,curated_synthetic
+gen-016,Can you tell me more about the platform?,general_enquiry,train,medium,curated_synthetic
+acc-021,My profile still shows my previous telephone number.,account_update,validation,medium,curated_synthetic
+inv-004,When is my bill due?,invoice_status,train,easy,curated_synthetic
+gen-022,Can the service integrate with other tools?,general_enquiry,validation,medium,curated_synthetic
+acc-025,Can you replace the emergency contact?,account_update,validation,hard,curated_synthetic
+can-010,Please close my current subscription.,cancel_order,train,easy,curated_synthetic
+gen-005,Can someone explain the different plans?,general_enquiry,train,easy,curated_synthetic
+can-014,I do not want the renewal to continue.,cancel_order,train,medium,curated_synthetic
+gen-006,How do I contact the sales team?,general_enquiry,train,easy,curated_synthetic
+ref-014,The wrong amount was taken; I need a refund.,refund_request,train,medium,curated_synthetic
+acc-028,I want messages sent to a different address.,account_update,test,hard,curated_synthetic
+gen-001,What services do you offer?,general_enquiry,train,easy,curated_synthetic
+ref-022,I need compensation for the duplicate debit.,refund_request,validation,medium,curated_synthetic
+tec-026,My access code is rejected even though it is correct.,technical_support,test,hard,curated_synthetic
+inv-006,I need to know whether the invoice has cleared.,invoice_status,train,easy,curated_synthetic
+tec-014,The download fails every time.,technical_support,train,medium,curated_synthetic
+gen-009,Where is your office located?,general_enquiry,train,easy,curated_synthetic
+inv-019,The payment left my bank; has it reached you?,invoice_status,train,medium,curated_synthetic
+inv-011,Where can I view my open invoices?,invoice_status,train,easy,curated_synthetic
+gen-029,Do you have an option for a small team?,general_enquiry,test,hard,curated_synthetic
+inv-030,Tell me whether the last bill is closed or open.,invoice_status,test,hard,curated_synthetic
+can-013,Please stop order 5519 immediately.,cancel_order,train,medium,curated_synthetic
+gen-008,Is there a free trial available?,general_enquiry,train,easy,curated_synthetic
+tec-027,"The file appears to upload, then disappears.",technical_support,test,hard,curated_synthetic
+can-025,Do not send the parcel; I changed my mind.,cancel_order,validation,hard,curated_synthetic
+can-022,Can you call off the delivery?,cancel_order,validation,medium,curated_synthetic
+tec-024,"I can sign in, but every page is empty.",technical_support,validation,hard,curated_synthetic
+inv-021,Did reference INV-204 clear successfully?,invoice_status,validation,medium,curated_synthetic
+can-005,I would like to terminate my membership.,cancel_order,train,easy,curated_synthetic
+inv-007,Why does my invoice still show unpaid?,invoice_status,train,easy,curated_synthetic
+gen-017,What is the difference between the plans?,general_enquiry,train,medium,curated_synthetic
+ref-008,Please reimburse me for the cancelled service.,refund_request,train,easy,curated_synthetic
+acc-013,I need to update my postcode.,account_update,train,medium,curated_synthetic
+inv-010,Is there any amount left to pay?,invoice_status,train,easy,curated_synthetic
+bad-002,Please help me with this request.,mystery_label,train,hard,curated_synthetic
+ref-023,Please reverse yesterday's charge.,refund_request,validation,medium,curated_synthetic
+acc-012,The company name on the account is wrong.,account_update,train,easy,curated_synthetic
+gen-020,How many users can one account have?,general_enquiry,train,medium,curated_synthetic
+tec-003,I cannot reset my password.,technical_support,train,easy,curated_synthetic
+tec-015,How do I fix a password reset loop?,technical_support,train,medium,curated_synthetic
+acc-024,The account should use my new mailing address.,account_update,validation,hard,curated_synthetic
+inv-022,Is my account balance now zero?,invoice_status,validation,medium,curated_synthetic
+inv-015,Please tell me which invoices are overdue.,invoice_status,train,medium,curated_synthetic
+bad-003,   Please update my billing address.   , account_update ,train,medium,curated_synthetic
+tec-007,The upload button does nothing.,technical_support,train,easy,curated_synthetic
+inv-008,Was the payment for invoice 9920 received?,invoice_status,train,easy,curated_synthetic
+acc-004,Please correct the spelling of my name.,account_update,train,easy,curated_synthetic
+can-021,I have decided not to continue with the purchase.,cancel_order,validation,medium,curated_synthetic
+can-001,Please cancel the order I placed this morning.,cancel_order,train,easy,curated_synthetic
+inv-028,I need the current position on reference 9007.,invoice_status,test,hard,curated_synthetic
+acc-009,I want to add a second phone number.,account_update,train,easy,curated_synthetic
+ref-013,Please return the money for my subscription renewal.,refund_request,train,medium,curated_synthetic
+acc-006,Can I change the contact person on the account?,account_update,train,easy,curated_synthetic
+gen-024,Is there a demonstration I can watch?,general_enquiry,validation,hard,curated_synthetic
+can-004,Cancel order 8821 for me.,cancel_order,train,easy,curated_synthetic
+gen-019,Is there a student discount?,general_enquiry,train,medium,curated_synthetic
+ref-020,I need the payment reversed because it was unauthorised.,refund_request,train,medium,curated_synthetic
+inv-003,Please confirm whether invoice 3301 is still outstanding.,invoice_status,train,easy,curated_synthetic
+can-008,Do not process my latest order.,cancel_order,train,easy,curated_synthetic
+tec-010,The mobile app is not working.,technical_support,train,easy,curated_synthetic
+tec-005,Please help; the dashboard will not load.,technical_support,train,easy,curated_synthetic
+ref-030,Please put the money back where it came from.,refund_request,test,hard,curated_synthetic
+inv-027,Can you verify that the payment was allocated correctly?,invoice_status,test,hard,curated_synthetic
+tec-018,My account keeps signing me out.,technical_support,train,medium,curated_synthetic
+acc-014,Please replace the old delivery address.,account_update,train,medium,curated_synthetic
+inv-026,The transfer completed yesterday; is the record updated?,invoice_status,test,hard,curated_synthetic
+ref-018,I was promised a refund but have not received it.,refund_request,train,medium,curated_synthetic
+can-023,Please discontinue my monthly plan.,cancel_order,validation,medium,curated_synthetic
+ref-003,Can you issue a refund for this purchase?,refund_request,train,easy,curated_synthetic
+ref-011,Can the last transaction be refunded?,refund_request,train,easy,curated_synthetic
+can-030,Please stop everything linked to order 7230.,cancel_order,test,hard,curated_synthetic
+acc-007,Please update my billing address.,account_update,train,easy,curated_synthetic
+gen-028,Where should I send a general question?,general_enquiry,test,hard,curated_synthetic
+ref-024,The order was returned; when will the money come back?,refund_request,validation,hard,curated_synthetic
+acc-004,Please correct the spelling of my name.,account_update,train,easy,curated_synthetic
+acc-030,Please make my new number the primary one.,account_update,test,hard,curated_synthetic
+gen-004,Where can I find the pricing information?,general_enquiry,train,easy,curated_synthetic
+ref-005,Kindly return the amount charged to my card.,refund_request,train,easy,curated_synthetic
+tec-025,The service stopped responding during my task.,technical_support,validation,hard,curated_synthetic
+inv-001,Has invoice 1042 been paid?,invoice_status,train,easy,curated_synthetic
+acc-016,My contact details are out of date.,account_update,train,medium,curated_synthetic
+acc-017,Please update the surname on my profile.,account_update,train,medium,curated_synthetic
+ref-006,I was charged twice and want one payment refunded.,refund_request,train,easy,curated_synthetic
+acc-003,How can I change my phone number?,account_update,train,easy,curated_synthetic
+ref-029,I sent the item back and am waiting for the credit.,refund_request,test,hard,curated_synthetic
+inv-005,Can you send me the payment status for this invoice?,invoice_status,train,easy,curated_synthetic
+can-018,I need to terminate the contract.,cancel_order,train,medium,curated_synthetic
+can-020,Please remove my pending order.,cancel_order,train,medium,curated_synthetic
+acc-002,I need to update my home address.,account_update,train,easy,curated_synthetic
+can-009,I want to cancel the service at the end of the month.,cancel_order,train,easy,curated_synthetic
+acc-029,The contact record needs to be revised.,account_update,test,hard,curated_synthetic
+can-002,I no longer want this order.,cancel_order,train,easy,curated_synthetic
+inv-020,Why is the bill marked past due?,invoice_status,train,medium,curated_synthetic
+can-028,Withdraw the request I submitted yesterday.,cancel_order,test,hard,curated_synthetic
+tec-016,The portal is very slow and then times out.,technical_support,train,medium,curated_synthetic
+ref-009,I need a refund because the product never arrived.,refund_request,train,easy,curated_synthetic
+gen-020,How many users can one account have?,general_enquiry,train,medium,curated_synthetic
+ref-019,Please refund the delivery charge as well.,refund_request,train,medium,curated_synthetic
+acc-005,I moved house and need to update my details.,account_update,train,easy,curated_synthetic
+inv-016,Has my bank transfer been matched to the invoice?,invoice_status,train,medium,curated_synthetic
+gen-003,What are your opening hours?,general_enquiry,train,easy,curated_synthetic
+acc-001,Please change the email address on my account.,account_update,train,easy,curated_synthetic
+inv-002,What is the status of my latest invoice?,invoice_status,train,easy,curated_synthetic
+gen-014,How long does setup normally take?,general_enquiry,train,medium,curated_synthetic
+inv-012,The bill says pending; what does that mean?,invoice_status,train,easy,curated_synthetic
+acc-008,My old email is no longer active.,account_update,train,easy,curated_synthetic
+gen-021,What do I need before getting started?,general_enquiry,validation,medium,curated_synthetic
+can-024,I want to back out of the order.,cancel_order,validation,hard,curated_synthetic
+acc-026,My details changed after I moved.,account_update,test,hard,curated_synthetic
+acc-022,I have a new work email to use.,account_update,validation,medium,curated_synthetic
+tec-008,The page freezes after I sign in.,technical_support,train,easy,curated_synthetic
+can-011,Can you cancel the booking I made?,cancel_order,train,easy,curated_synthetic
+can-007,How can I cancel a purchase?,cancel_order,train,easy,curated_synthetic
+can-012,I ordered the wrong item and need to cancel it.,cancel_order,train,easy,curated_synthetic
+tec-030,I am stuck on a loading message.,technical_support,test,hard,curated_synthetic
+ref-004,"The item was faulty, so I need a refund.",refund_request,train,easy,curated_synthetic
+tec-001,My login keeps failing.,technical_support,train,easy,curated_synthetic
+ref-015,I changed my mind and would like a refund.,refund_request,train,medium,curated_synthetic
+can-029,The purchase should not go ahead.,cancel_order,test,hard,curated_synthetic
+ref-021,Can you send the funds back to the original card?,refund_request,validation,medium,curated_synthetic
+can-017,Can I withdraw my order before shipping?,cancel_order,train,medium,curated_synthetic
+tec-022,Nothing happens when I press save.,technical_support,validation,medium,curated_synthetic
+ref-010,The service did not work; please send my money back.,refund_request,train,easy,curated_synthetic
+gen-018,Do you have documentation for beginners?,general_enquiry,train,medium,curated_synthetic
+inv-014,I paid last week but the invoice has not updated.,invoice_status,train,medium,curated_synthetic
+inv-029,Does the system still show money owing?,invoice_status,test,hard,curated_synthetic
+tec-013,The screen is blank after login.,technical_support,train,medium,curated_synthetic
+gen-010,What payment methods do you accept?,general_enquiry,train,easy,curated_synthetic
+can-027,"I want to end the service, not pause it.",cancel_order,test,hard,curated_synthetic
+tec-028,The page returns me to the login screen repeatedly.,technical_support,test,hard,curated_synthetic
+gen-027,How quickly can a new customer begin?,general_enquiry,test,hard,curated_synthetic
+acc-018,I need to change the bank contact information.,account_update,train,medium,curated_synthetic
+ref-025,I want the amount credited back to me.,refund_request,validation,hard,curated_synthetic
+tec-020,The system says my browser is unsupported.,technical_support,train,medium,curated_synthetic
+tec-019,The report page displays broken text.,technical_support,train,medium,curated_synthetic
+ref-007,How do I request a refund?,refund_request,train,easy,curated_synthetic
+gen-013,What features are included in the basic plan?,general_enquiry,train,medium,curated_synthetic
+ref-012,I want a full refund for order 4412.,refund_request,train,easy,curated_synthetic
+gen-011,Can I use the service outside the UK?,general_enquiry,train,easy,curated_synthetic
+tec-009,I keep getting error code 500.,technical_support,train,easy,curated_synthetic
+gen-025,What happens after I sign up?,general_enquiry,validation,hard,curated_synthetic
+tec-006,I am locked out of my account.,technical_support,train,easy,curated_synthetic
+gen-015,Is customer support available at weekends?,general_enquiry,train,medium,curated_synthetic
+can-003,Can you stop my subscription before it renews?,cancel_order,train,easy,curated_synthetic

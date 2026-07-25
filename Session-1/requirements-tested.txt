@@ -1,0 +1,10 @@
+pandas==2.2.3
+scikit-learn==1.8.0
+matplotlib==3.10.8
+jupyterlab==4.5.3
+notebook==7.5.3
+nbformat==5.10.4
+nbclient==0.10.4
+ipykernel==7.2.0
+joblib==1.5.3
+pytest==9.0.2
