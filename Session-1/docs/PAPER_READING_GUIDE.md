@@ -60,17 +60,17 @@ Pedro Domingos, "A Few Useful Things to Know About Machine Learning".
 ## One-sentence summary
 
 ## Five useful takeaways
-1.
-2.
-3.
-4.
-5.
+1. if you hire someone to build a classifier , be sure to keep some of the data to yourself and test the classifier they give you on it.
+2. If you have been hired to build a classifier, set some of the data aside from the beginning and only use it to test your chosen classifier at the very end.
+3. Strong false assumption can be better than weak true ones, because a learner with the latter needs more data to avoid overfitting.
+4. Learners combine knowledge with data to grow programs.
+5. Cross validation can help to combat overfitting.
 
 ## Two unfamiliar terms
 1. Term:
-   My current understanding:
+   My current understanding: if we have a lot of knowledge about what makes examples similar in our domain, instance based method may be a good choice of choosing a representation.
 2. Term:
-   My current understanding:
+   My current understanding: If we have knowledge about what kind of preconditions are required by each class "if" rules may be the best option
 
 ## Connection to the live-coding project
 
