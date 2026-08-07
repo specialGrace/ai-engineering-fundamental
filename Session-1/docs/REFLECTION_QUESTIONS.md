@@ -5,6 +5,7 @@ Answer in your own words. Use a small example whenever possible.
 ## Core questions
 
 1. What is the difference between artificial intelligence, machine learning and deep learning?
+The difference between AI, ml and dl is that AI is the big idea, ML is one method to build AI, deep learning is one advanced type of ML
 2. How does traditional rule-based programming differ from supervised machine learning?
 3. In the support-intent dataset, what are the example, feature, label and prediction?
 4. Why is this task classification rather than regression?
@@ -13,6 +14,7 @@ Answer in your own words. Use a small example whenever possible.
 7. What is the role of the validation set?
 8. What is a baseline, and why did we build one before logistic regression?
 9. What does TF-IDF do to the text?
+   It convert text to numerical features
 10. Why is logistic regression able to classify text after TF-IDF?
 11. Why can accuracy be misleading?
 12. Explain precision using a support-ticket example.
